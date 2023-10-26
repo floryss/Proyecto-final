@@ -1,0 +1,33 @@
+.footer {
+    display: block;
+    text-align: center;
+    background-color: rgb(54, 5, 5);
+}
+ .contenido h3{
+    width: 100%;
+    border-bottom: none;
+    margin: auto;
+    color: #fff;
+    text-decoration:none;
+}
+.contenido .col{
+    width: 100%;
+    margin-bottom: 25px;
+    color: aliceblue;
+    text-decoration:none;
+}
+.col3{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    text-decoration:none;
+}
+ .titulo-footer{
+    text-align: center;
+}
+ .col ul{
+    margin-top: 5px;
+}
+.footer .contenido .redes{
+    justify-content: center;
+}

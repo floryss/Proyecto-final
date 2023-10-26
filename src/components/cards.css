@@ -1,0 +1,19 @@
+.container{
+    background-color: #1e2326;
+    display:flex;
+    padding: 50px 20px;
+    max-width: 1100px;
+   /*/ height: 100vh;
+    
+    justify-content: space-between;
+    background: rgb(71,0,101);
+    background: linear-gradient(8deg, rgba(71,0,101,0.28335084033613445) 13%, rgba(233,184,5,0.4150035014005602) 100%);/*/
+    
+
+}
+.row{
+    max-width: 1100px;
+    margin: auto;
+   /*/ width: 1000px;
+    flex-wrap:wrap;/*/
+}
